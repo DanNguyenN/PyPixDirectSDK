@@ -4,7 +4,7 @@ setup(
     name='PyPixDirectSDK',
     version='0.0.1a',
     packages=find_packages(),
-    package_data={'PyPix': ['PyPix/*.m']},
+    package_data={'PyPix': ['PyPix/*']},
 
     install_requires=[
         # List your dependencies here
