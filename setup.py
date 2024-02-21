@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='PyPixDirectSDK',
-    version='0.0.1a',
+    version='0.0.2',
     packages=find_packages(),
     package_data={'PyPix': ['PyPix/*']},
 
