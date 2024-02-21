@@ -6,5 +6,8 @@ setup(
     packages=find_packages(),
     install_requires=[
         # List your dependencies here
+        'matlab-engine',
+        'numpy',
+        'opencv-python',
     ],
 )
